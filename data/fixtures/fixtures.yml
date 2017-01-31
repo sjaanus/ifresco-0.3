@@ -1,0 +1,37 @@
+Allowedaspects:
+  Allowedaspects_1:
+    name: 'cm:versionable'
+  Allowedaspects_2:
+    name: 'cm:templatable'
+  Allowedaspects_3:
+    name: 'cm:taggable'
+  Allowedaspects_4:
+    name: 'cm:summarizable'
+  Allowedaspects_5:
+    name: 'app:inlineeditable'
+  Allowedaspects_6:
+    name: 'cm:geographic'
+  Allowedaspects_7:
+    name: 'exif:exif'
+  Allowedaspects_8:
+    name: 'cm:emailed'
+  Allowedaspects_9:
+    name: 'emailserver:aliasable'
+  Allowedaspects_10:
+    name: 'cm:effectivity'
+  Allowedaspects_11:
+    name: 'cm:dublincore'
+  Allowedaspects_12:
+    name: 'cm:complianceable'
+  Allowedaspects_13:
+    name: 'cm:generalclassifiable'
+Allowedtypes:
+  Allowedtypes_1:
+    name: 'cm:content'
+Settings:
+  Settings_3:
+    keystring: Renderer
+    valuestring: '["FileRenderer"]'
+  Settings_4:
+    keystring: DefaultTab
+    valuestring: metadata

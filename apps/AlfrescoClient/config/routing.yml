@@ -1,0 +1,69 @@
+# You can find more information about this file on the symfony website:
+# http://www.symfony-project.org/reference/1_4/en/10-Routing
+
+view:
+  url:  /view/:nodeId
+  param: { module: Viewer, action: index }   
+  
+metadata:
+  url:  /metadata/:nodeId
+  param: { module: Metadata, action: index }   
+  
+metaAdmin:
+  url:  /metaAdmin/:nodeId
+  param: { module: Metadata, action: admin }  
+  
+datagrid:
+  url:  /datagrid/:nodeId
+  param: { module: DataGrid, action: index }  
+
+#AlfrescoLogin_verify:
+#  url:    /login
+#  param:  { module: AlfrescoLogin, action: verify }
+    
+AlfrescoLogin_logout:
+  url:    /logout
+  param:  { module: AlfrescoLogin, action: logout }
+
+
+#namespace_update:
+#  url:   /namespace_update
+#  class: sfRequestRoute
+#  param: { module: Admin, action: NameSpaceMapListUpdate }
+#  requirements:
+#    sf_method: [put]
+
+  
+#namespace_create:
+#  url:   /namespace_create
+#  class: sfRequestRoute
+ # param: { module: Admin, action: NameSpaceMapListCreate }
+#  requirements:
+ #   sf_method: [post]
+
+
+  
+homepage:
+  url:   /
+  param: { module: Dashlets, action: index }
+  
+
+
+
+# generic rules
+# please, remove them by adding more specific rules
+
+#default_index:
+  url:   /:module
+  param: { module: Dashlets, action: index }
+
+#default_index:
+#  url:   /:module
+#  param: { action: index }
+
+default:
+  url:   /:module/:action/*  
+  
+
+
+

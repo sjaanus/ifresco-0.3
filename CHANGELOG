@@ -1,0 +1,91 @@
+- 0.1beta -> 0.1 
+-------------------------------------------------- 
+* metadata save fix , some field data got lost on custom models
+* tiff renderer (librarys required on the host)
+* quick search results get rendered over advanced search now
+* template problems on advanced search (could not be displayed)
+* tags got duplicated on multiple metadata tabs
+* preview in a new tab , displayed with a wrong renderer
+* download of folder was allowed and occured an error
+* deleting tags didnt work
+* refresh button was missing in document grid
+* check rights on documents - able to edit , add aspects .... if no rights button is disabled
+* if document checked out - button "checkout" changes to "checkin"
+* document can be checked in on the working copy and the original document. - automatically search for workingcopy and check it in
+* added FlexPaper 1.4.1 to ifresco
+
+- 0.1 -> 0.2beta
+-------------------------------------------------- 
+* columnset changes opened a new tab, it refresh the tab now
+* columnset changes will appear on every new opened tab
+* columnset is saved as cookie
+* problems with display on smaller screens like 1024x768 - fixed
+* added a horizontal split pane , so that the grid and preview area can be resized
+* height of the top area with the logo + buttons + search got smaller to have more space 
+* added two new buttons in the top for "horizontal split" & "vertical split"
+* implemented a vertical split - useful for wide screens to split it vertical and not horizontal
+* vertical split & horizontal split changes are saved to the cookies 
+* reorderd administration groups (content model , advanced search ,columns , general settings)
+* added a "mark as default" button to the Advanced Search templates & Column sets
+* bug fixed on editing a default template - (default state got lost)
+* if PDFRenderer was active , all ExtJS Windows had some problems. Added a fix that the PDFRenderer is not displayed during the window is shown
+* recoded some parts of the Alfresco PHP Library (ifresco PHP Library) for lucene search
+* implemented a filteredquery for lucene search , for paging & sorting via webservice
+* export result as csv had some issues with special characters - utf8 encoding
+* added social link buttons to the home tab for ifresco help (youtube,twitter,blog)
+* added "edit metadata" , "specify type", "manage aspects" to the context menu of the grid
+* some issues if there was an search term entered in the quick search - it also was used for the advanced search then.
+* zoho writer integration 
+* after checkout/checkin buttons didnt refresh
+* after checkout it jumps to the workingcopy
+* after checkin it jumps to the original node
+* information on documents if locked
+* include version information on login mask , admin mask
+
+- 0.2beta -> 0.3alpha (prerelease SVN only)
+-------------------------------------------------- 
+* quick add aspects in grid context menu
+* category management as admin on the category tree (right click)
+* tabs in content templates & search templates can be deleted now
+* zoho sheet extension
+* better integration of zoho (hide documents if not possible)
+* improvements of version history
+* popup for detailed version history
+* upload a new version (drag & drop upload) 
+* create a new version
+* revert version
+* office to swf improvements
+* cache bug in IE9
+* did IE9 improvements , it should work fine now on IE9 too. will be tested from now on in IE9 too.
+* several bug fixes in the core, e.g loading issues, wrong maskings, ui height problems in different browsers
+* implemented lookup fields. means that you can give a normal text field a category lookup for values (single select or multiselect)
+* email functionallity to send files as attachment directly via smtp
+* fix drag & drop upload bug, first plugin is html5 now for drag & drop upload.
+
+- 0.3alpha - 0.3beta
+-------------------------------------------------- 
+* Lookup fields for advanced search
+* multilingual ( atm translation provided in english + german )
+* implemented pdf merge on pdfs in the datagrid using fpdf & fpdi & fpdi_tpl. (implemented in the contextmenu if you select more then one pdf document)
+* implemented a new clipboard (clipboard will be shown as list)
+* doctrine supports now sqlsrv (microsoft php mssql driver)
+* bugfixes for content - templates
+* date bug in metadata fixed
+* extension bug for uploading (.PDF instead of .pdf) fixed
+* extension bug for versioning fixed
+* category metadata field edited .... you have to enable category editing first. (otherwise there would be issues during loading + saving)
+* show root of categories to enable to add subcategories 
+* favorites bug fixed
+* category tree bug fixed
+* advanced search implement uncheck all / and click on root automatically checks sub folder/categories if the button is toggled
+* add an AND / OR abled query in the fields + quicksearch
+* lookups bug fixed
+* category management fixed some ui bugs
+
+- 0.3beta - 0.3stable
+-------------------------------------------------- 
+* cleanup web directory
+* russian translation
+* locale for extjs
+* category improvements
+* bugfixes for grid / loading / cache

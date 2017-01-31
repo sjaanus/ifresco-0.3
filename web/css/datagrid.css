@@ -1,0 +1,170 @@
+.open-cifs {
+    background-image:url(/images/toolbar/drive_go.png) !important;
+}
+
+.open-alfresco {
+    background-image:url(/images/toolbar/space-icon-default-16.gif) !important;
+}
+
+.open-webdav {
+    background-image:url(/images/toolbar/world_go.png) !important;
+    
+}
+
+.upload-content {
+    background-image:url(/images/toolbar/page_white_get.png) !important;
+    
+}
+
+.create-folder {
+    background-image:url(/images/toolbar/create_space.gif) !important;  
+
+}
+
+.export-csv {
+    background-image:url(/images/toolbar/page_white_excel.png) !important;  
+}
+
+.pasteCut-clipboard {
+    background-image:url(/images/toolbar/paste_cut.png) !important;  
+}
+.pasteCopy-clipboard {
+    background-image:url(/images/toolbar/paste_copy.png) !important;  
+}
+
+.checkout-node {
+    background-image:url(/images/toolbar/page_white_go.png) !important;  
+}
+
+.checkin-node {
+    background-image:url(/images/toolbar/page_white_swoosh.png) !important;  
+}
+
+.cancel-checkout {
+    background-image:url(/images/toolbar/cancel_checkout.png) !important;  
+}
+
+.zoho-writer {
+    background-image:url(/images/toolbar/zohowriter.png) !important;  
+}
+
+.open-window {
+    background-image:url(/images/toolbar/openwindow.png) !important;  
+}
+
+.refresh-meta {
+    background-image:url(/images/contextmenu/arrow_refresh.png) !important;  
+}
+
+/* CONTEXT MENU */
+
+.preview-tab {
+    background-image:url(/images/contextmenu/tab_go.png) !important;  
+}
+
+.add-clipboard {
+    background-image:url(/images/contextmenu/cut.png) !important;  
+}
+
+.remove-clipboard {
+    background-image:url(/images/contextmenu/delete.png) !important;  
+}
+
+.new-tag {
+    background-image:url(/images/contextmenu/tag_blue_add.png) !important;  
+}
+
+.view-metadata {
+    background-image:url(/images/contextmenu/metadata.png) !important;  
+}
+
+.revert-version {
+    background-image:url(/images/contextmenu/revert.png) !important;  
+}
+
+.add-version {
+    background-image:url(/images/contextmenu/page_white_add.png) !important;  
+}
+
+.version-panel {
+    background-image:url(/images/toolbar/application_side_boxes.png) !important;  
+}
+
+.upload-version {
+    background-image:url(/images/toolbar/page_white_get.png) !important;  
+}
+
+.download-node {
+    background-image:url(/images/toolbar/arrow_down.png) !important;  
+}
+
+.quick-aspects {
+    background-image:url(/images/contextmenu/textfield_rename.png) !important;  
+}
+
+.quick-aspect-tag {
+    background-image:url(/images/icons/tag.png) !important;  
+}
+
+.quick-aspect-version {
+    background-image:url(/images/icons/attach.png) !important;  
+}
+
+.quick-aspect-category {
+    background-image:url(/images/icons/tag_green.png) !important;  
+}
+
+.view-alfresco {
+    background-image:url(/images/contextmenu/View_details.gif) !important;  
+}
+
+.manage-aspects {
+    background-image:url(/images/toolbar/add-aspects.png) !important;  
+}
+
+.specify-type {
+    background-image:url(/images/toolbar/specify_type.png) !important;  
+}
+
+.delete-node {
+    background-image:url(/images/icons/cross.png) !important;  
+}
+
+
+
+
+.dashboard {
+    background-image:url(/images/sites/dashboard.png) !important;      
+}
+
+.blog {
+    background-image:url(/images/sites/blog.png) !important;      
+}
+
+.wiki {
+    background-image:url(/images/sites/wiki.png) !important;      
+}
+
+.docLib {
+    background-image:url(/images/sites/docLib.png) !important;  
+}
+
+.calendar {
+    background-image:url(/images/sites/calendar.png) !important;      
+}
+
+.links {
+    background-image:url(/images/sites/links.png) !important;      
+}
+
+.discussions {
+    background-image:url(/images/sites/discussions.png) !important;      
+}
+
+.send-email {
+    background-image:url(/images/contextmenu/email_attach.png) !important;      
+}
+
+.pdf-merge {
+    background-image:url(/images/icons/page_white_acrobat.png) !important;
+}

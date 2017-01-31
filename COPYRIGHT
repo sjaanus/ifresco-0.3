@@ -1,0 +1,168 @@
+COPYRIGHTS
+******************************************************************************
+
+
+ifresco client
+-------
+Url:       http://www.ifresco.at/
+Copyright: Dominik Danninger, MAY Computer
+License:   GPL - http://www.gnu.org/licenses/gpl.html or see lib/Alfresco/LICENSE
+
+
+ifresco PHP Library
+-------
+Url:       http://www.ifresco.at/
+Copyright: Dominik Danninger, MAY Computer
+License:   GPL - see LICENSE file
+
+
+symfony
+-------
+Url:       http://www.symfony-project.com/
+License:   MIT - http://www.opensource.org/licenses/mit-license.php
+
+
+Ext JS
+-------
+Url:       http://www.sencha.com/
+License:   GPL - http://www.sencha.com/products/extjs/license/
+
+
+Ext JS Plugin - Metaform
+-------
+Url:       http://www.extjs.eu/
+License:   LGPL - http://www.gnu.org/licenses/lgpl.html 
+
+Ext JS Plugin - SuperBoxSelect
+-------
+Email:     dan.humphrey@technomedia.co.uk
+License:   /
+
+jQuery & jQuery UI
+-------
+Url:       http://www.jquery.com/
+License:   MIT - http://jquery.org/license
+
+jQuery Plugin - Progressbar
+-------
+Url:       http://t.wits.sg/jquery-progress-bar/
+License:   /
+
+jQuery Plugin - Plupload
+-------
+Url:       http://www.plupload.com/
+License:   GPLv2 - http://www.gnu.org/licenses/gpl2.html
+
+
+jQuery Plugin - Tag-it
+-------
+Url:       https://github.com/levycarneiro/tag-it
+License:   MIT - http://www.opensource.org/licenses/mit-license.php
+
+
+jQuery Plugin - BASE64
+-------
+Url:       http://www.semnanweb.com/jquery-plugin/base64.html
+License:   MIT - http://www.opensource.org/licenses/mit-license.php
+
+
+jQuery Plugin - form2js
+-------
+Url:       http://code.google.com/p/form2js/
+License:   MIT - http://www.opensource.org/licenses/mit-license.php
+
+
+jQuery Plugin - Alternate Select Multiple (asmSelect)
+-------
+Url:       http://www.ryancramer.com/projects/asmselect/
+License:   MIT - http://www.opensource.org/licenses/mit-license.php & GPL - http://www.gnu.org/licenses/gpl.html
+
+
+Flowplayer
+-------
+Url:       http://www.flowplayer.org/
+License:   GPL - http://www.gnu.org/licenses/gpl.html
+
+
+Flexpaper
+-------
+Url:       http://flexpaper.devaldi.com/
+License:   GPL - http://www.gnu.org/licenses/gpl.html
+
+
+SWFObject
+-------
+Url:       http://code.google.com/p/swfobject/
+License:   MIT - http://www.opensource.org/licenses/mit-license.php
+
+
+JODConverter
+-------
+Url:       http://www.artofsolving.com/opensource/jodconverter
+License:   GPLv2 - http://www.gnu.org/licenses/gpl2.html
+
+
+Part of XML_Query2XML PEAR Package (ISO9075Mapper)
+-------
+Url:       http://pear.php.net/package/XML_Query2XML
+License:   LGPL 2.1 - http://www.gnu.org/licenses/lgpl.html 
+
+
+Doctrine
+-------
+Url:       http://www.doctrine-project.org/
+License:   GPLv2 - http://www.gnu.org/licenses/gpl2.html
+
+
+Alfresco WebService PHP Library
+-------
+Url:       http://www.alfresco.org/
+License:   GPL - http://www.gnu.org/licenses/gpl.html
+
+
+Parts of the Alfredo-PHPAPI-R2 for Alfresco WebService PHP Library
+-------
+Url:       http://www.sugarforge.org/projects/alfredo-commons/
+License:   GPL - http://www.gnu.org/licenses/gpl.html
+
+
+PHPMailer 5.1
+-------
+Url:       http://sourceforge.net/projects/phpmailer/
+License:   GPLv2 - http://www.gnu.org/licenses/gpl2.html or located in lib/PHPMailer/LICENSE
+
+
+FPDF 1.6
+-------
+Url:       http://www.fpdf.org/
+License:   SEE - lib/FPDF/license.txt
+
+
+FPDFI 1.4.1
+-------
+Url:       http://www.setasign.de/products/pdf-php-solutions/fpdi/
+License:   Apache License, Version 2.0 - http://www.apache.org/licenses/LICENSE-2.0.html 
+
+
+
+JS Date Format 1.2.3
+-------
+URL:        http://blog.stevenlevithan.com/archives/date-time-format
+License:    MIT - http://www.opensource.org/licenses/mit-license.php
+
+
+
+
+Translation
+******************************************************************************
+
+German
+-------
+URL:        http://www.ifresco.at
+Company:    MAY Computer GmbH
+
+
+Russian
+-------
+URL:        http://www.iopent.ru/
+Company:    Integrator of open source technology (Интегратор Открытых Технологий)

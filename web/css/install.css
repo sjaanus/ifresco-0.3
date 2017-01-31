@@ -1,0 +1,237 @@
+body {
+    background:#eeeeee;
+    margin:0;
+}
+
+#installContainer {
+    width:800px;
+}
+
+
+    .installLeft {
+        float:left;
+        width:141px;
+
+
+    }
+
+    #installBox {
+        float:left;
+        width:520px;
+        margin-top:100px;
+        border:1px solid #d0d0d0;
+        background-color:#FFFFFF;
+    }
+    .topGradient {
+        float:left;
+        width:520px;
+        height:120px;
+    }
+
+    .installTop {
+        float:left;
+        height:130px;
+        padding-left:20px;
+        padding-bottom:10px;
+        border-bottom:1px solid #d0d0d0;
+        width:500px;
+        text-align:left;
+        background-color:#FFFFFF;
+        margin-right:10px;
+    }
+    
+        .installTop div {
+
+            padding-top:20px;
+        }
+        
+        .installTop h1 {
+            padding:0;
+            margin:0;
+            font:20px Verdana,sans-serif;
+            font-weight:bold;   
+        }
+        
+        .blue {
+            color:#2d7bb2; 
+        }
+        
+        .grey {
+            color:#46494d; 
+        }
+        
+        .lightgrey {
+            color:#8b8c8c; 
+        }
+        
+
+    .installContent {
+        float:left;
+        width:520px;
+        background-color:#FFFFFF;
+        text-align:left;
+        font:12px Verdana,sans-serif;
+        padding-top:30px;
+    }
+    
+        
+        
+        
+        .installContent ul {
+            margin:0;
+            padding:0;
+            margin-left:20px;
+            list-style:none
+        }
+        
+            .installContent ul li {
+                margin:0;
+                padding:0;
+                padding-top:5px;
+                padding-bottom:8px;
+            }
+            
+            .installContent .error_list {
+                margin:0;
+                padding:0;  
+                padding-top:2px;
+            }
+            
+            .installContent .error_list li {
+                margin:0;
+                padding:0;
+                font-size:10px;
+                color:#D8050B;
+            }
+            
+            .installContent .error_list_black li {
+                margin:0;
+                padding:0;
+                font-size:10px;
+                color:#000;
+            }
+            
+            
+        
+                .installContent button {
+                    border:1px solid #2d7bb2;
+                    background-color: #2d7bb2;
+                    -moz-border-radius:0.4em;
+                    -khtml-border-radius:0.4em;
+                    font:12px Verdana,sans-serif;
+                    font-weight:bold;
+                    width:80px;
+                    padding:5px;
+                    color:#FFFFFF;
+                }
+                
+                #disabledBtn {
+                    border:1px solid #46494d;
+                    background-color: #46494d;
+                    -moz-border-radius:0.4em;
+                    -khtml-border-radius:0.4em;
+                    font:12px Verdana,sans-serif;
+                    font-weight:bold;
+                    width:80px;
+                    padding:5px;
+                    color:#969696;
+                }
+                
+                #disabledBtn:hover {
+                    color:#969696;
+                }
+                
+                .installContent button:hover {
+                    border:1px solid #46494d;
+                    background-color: #46494d;
+                }
+
+                .installContent input {
+                    width:170px;
+                    padding:5px;
+                    border:1px solid #ddd;
+                    background:#fafafa;
+                    font:12px Verdana,sans-serif;
+                    -moz-border-radius:0.4em;
+                    -khtml-border-radius:0.4em;
+                    text-align:left;
+                }
+                
+                .installContent .form_row_error input  {
+                    border:1px solid #D8050B;        
+                }
+
+                .installContent input:hover, input:focus {
+                    border:1px solid #c5c5c5;
+                    background-color: #f6f6f6;
+                }
+
+                .installContent label {
+                    display:block;
+                    padding:2px;
+                    color:#585858;
+                    font:12px Verdana,sans-serif;
+                    font-weight:bold;
+                }
+        .copyright {
+            color:#fff;
+            padding-left:20px;
+            margin-top:10px;
+            padding-top:5px;
+            background-color:#46494d;
+            padding-bottom:5px;
+            font:10px Verdana,sans-serif;
+            border-top:1px solid #d0d0d0;
+            float:left;
+            width:500px;
+        }
+
+.installRight {
+    float:left;
+    width:139px;
+    height:600px;
+}
+
+h1, h2 {
+    font-size:16px;
+    color:#2d7bb2;
+    margin:0;
+    padding:0;
+    margin-left:20px;
+    margin-bottom:10px;
+}
+
+.green {
+    color:#008000;
+}
+
+.orange {
+    color:#FF8040;   
+}
+
+.red {
+    color:#D8050B;   
+}
+
+.help {
+    color:#ACACAC;
+}
+
+#installProgress ul {
+            margin:0;
+            padding:0;
+            margin-left:20px;
+            list-style:none
+        }
+        
+        #installProgress ul li {
+            margin:0;
+            padding:0;
+        }
+        
+        .installtext {
+            padding:2px;
+            color:#585858;
+            font:12px Verdana,sans-serif;
+            font-weight:bold;
+        }

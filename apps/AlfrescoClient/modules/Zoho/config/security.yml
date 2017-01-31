@@ -1,0 +1,6 @@
+all:
+    is_secure: false
+default:
+    is_secure: false
+ZohoUpload:
+    is_secure: true
